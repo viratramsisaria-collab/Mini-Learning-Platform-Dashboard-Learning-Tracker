@@ -2,11 +2,11 @@
 
 A full-stack MERN learning management platform where users can create courses, manage lessons, track learning progress, and maintain their own educational content through a modern web interface.
 
-## 🚀 Live Demo
+## 🚀 If the Server is Running Then the Port Numbers will be:
 
-Frontend: [Add Frontend URL]
+Frontend: http://localhost:5173
 
-Backend: [Add Backend URL]
+Backend: https://localhost:3000
 
 ---
 
